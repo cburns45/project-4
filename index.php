@@ -25,7 +25,7 @@
                 This site will give you more of an insight to me and to who I am. </p>
 
             <img src="pics/bento.jpg" alt="Picture of me at Bento with a boba slushie">
-            <img src="pics/bar.jpg" alt="my friend eric and I at a bar" >
+            
         </div>
     </div>
 
